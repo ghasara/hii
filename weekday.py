@@ -14,4 +14,4 @@ elif a==4:
 elif a==5:
     print("SATURDAY")
 else:
-    print("SUUNDAY")
+    print("SUNDAY")
